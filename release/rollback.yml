@@ -1,2 +1,2 @@
-rollback_strategy: 
-target_version: 
+rollback_strategy: Rolling Update
+target_version: v1.0.0
